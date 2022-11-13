@@ -1,0 +1,1269 @@
+{
+    "blocks": [
+        {
+            "ID": "diorite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/diorite"
+        },
+        {
+            "ID": "copper_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/copper_ore"
+        },
+        {
+            "ID": "coal_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/coal_ore"
+        },
+        {
+            "ID": "medium_amethyst_bud",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/medium_amethyst_bud"
+        },
+        {
+            "ID": "orange_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/orange_concrete"
+        },
+        {
+            "ID": "dark_oak_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dark_oak_planks"
+        },
+        {
+            "ID": "dirt",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dirt"
+        },
+        {
+            "ID": "cobblestone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cobblestone"
+        },
+        {
+            "ID": "stone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/stone"
+        },
+        {
+            "ID": "granite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/granite"
+        },
+        {
+            "ID": "polished_granite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/polished_granite"
+        },
+        {
+            "ID": "polished_diorite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/polished_diorite"
+        },
+        {
+            "ID": "andesite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/andesite"
+        },
+        {
+            "ID": "polished_andesite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/polished_andesite"
+        },
+        {
+            "ID": "deepslate",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate"
+        },
+        {
+            "ID": "cobbled_deepslate",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cobbled_deepslate"
+        },
+        {
+            "ID": "polished_deepslate",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/polished_deepslate"
+        },
+        {
+            "ID": "calcite",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/calcite"
+        },
+        {
+            "ID": "tuff",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/tuff"
+        },
+        {
+            "ID": "dripstone_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dripstone_block"
+        },
+        {
+            "ID": "spruce_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/spruce_planks"
+        },
+        {
+            "ID": "birch_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/birch_planks"
+        },
+        {
+            "ID": "jungle_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/jungle_planks"
+        },
+        {
+            "ID": "acacia_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/acacia_planks"
+        },
+        {
+            "ID": "mangrove_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/mangrove_planks"
+        },
+        {
+            "ID": "crimson_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/crimson_planks"
+        },
+        {
+            "ID": "warped_planks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/warped_planks"
+        },
+        {
+            "ID": "bedrock",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/bedrock"
+        },
+        {
+            "ID": "sand",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/sand"
+        },
+        {
+            "ID": "red_sand",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_sand"
+        },
+        {
+            "ID": "gravel",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gravel"
+        },
+        {
+            "ID": "deepslate_coal_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_coal_ore"
+        },
+        {
+            "ID": "iron_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/iron_ore"
+        },
+        {
+            "ID": "deepslate_iron_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_iron_ore"
+        },
+        {
+            "ID": "mud",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/mud"
+        },
+        {
+            "ID": "gold_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gold_ore"
+        },
+        {
+            "ID": "deepslate_gold_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_gold_ore"
+        },
+        {
+            "ID": "redstone_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/redstone_ore"
+        },
+        {
+            "ID": "deepslate_redstone_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_redstone_ore"
+        },
+        {
+            "ID": "emerald_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/emerald_ore"
+        },
+        {
+            "ID": "deepslate_emerald_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_emerald_ore"
+        },
+        {
+            "ID": "lapis_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/lapis_ore"
+        },
+        {
+            "ID": "deepslate_lapis_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_lapis_ore"
+        },
+        {
+            "ID": "diamond_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/diamond_ore"
+        },
+        {
+            "ID": "deepslate_diamond_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_diamond_ore"
+        },
+        {
+            "ID": "nether_gold_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/nether_gold_ore"
+        },
+        {
+            "ID": "nether_quartz_ore",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/nether_quartz_ore"
+        },
+        {
+            "ID": "coal_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/coal_block"
+        },
+        {
+            "ID": "raw_iron_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/raw_iron_block"
+        },
+        {
+            "ID": "raw_copper_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/raw_copper_block"
+        },
+        {
+            "ID": "raw_gold_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/raw_gold_block"
+        },
+        {
+            "ID": "amethyst_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/amethyst_block"
+        },
+        {
+            "ID": "budding_amethyst",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/budding_amethyst"
+        },
+        {
+            "ID": "iron_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/iron_block"
+        },
+        {
+            "ID": "copper_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/copper_block"
+        },
+        {
+            "ID": "gold_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gold_block"
+        },
+        {
+            "ID": "diamond_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/diamond_block"
+        },
+        {
+            "ID": "netherite_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/netherite_block"
+        },
+        {
+            "ID": "exposed_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/exposed_copper"
+        },
+        {
+            "ID": "weathered_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/weathered_copper"
+        },
+        {
+            "ID": "oxidized_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/oxidized_copper"
+        },
+        {
+            "ID": "cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cut_copper"
+        },
+        {
+            "ID": "weathered_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/weathered_cut_copper"
+        },
+        {
+            "ID": "oxidized_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/oxidized_cut_copper"
+        },
+        {
+            "ID": "waxed_exposed_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/exposed_copper"
+        },
+        {
+            "ID": "yellow_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/yellow_wool"
+        },
+        {
+            "ID": "magenta_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/magenta_wool"
+        },
+        {
+            "ID": "light_blue_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_blue_wool"
+        },
+        {
+            "ID": "orange_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/orange_wool"
+        },
+        {
+            "ID": "white_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/white_wool"
+        },
+        {
+            "ID": "lapis_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/lapis_block"
+        },
+        {
+            "ID": "tinted_glass",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/tinted_glass"
+        },
+        {
+            "ID": "glass",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/glass"
+        },
+        {
+            "ID": "wet_sponge",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/wet_sponge"
+        },
+        {
+            "ID": "sponge",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/sponge"
+        },
+        {
+            "ID": "waxed_weathered_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/weathered_cut_copper"
+        },
+        {
+            "ID": "waxed_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cut_copper"
+        },
+        {
+            "ID": "waxed_weathered_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/weathered_copper"
+        },
+        {
+            "ID": "lime_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/lime_wool"
+        },
+        {
+            "ID": "pink_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/pink_wool"
+        },
+        {
+            "ID": "gray_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gray_wool"
+        },
+        {
+            "ID": "light_gray_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_gray_wool"
+        },
+        {
+            "ID": "cyan_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cyan_wool"
+        },
+        {
+            "ID": "purple_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/purple_wool"
+        },
+        {
+            "ID": "blue_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/blue_wool"
+        },
+        {
+            "ID": "brown_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/brown_wool"
+        },
+        {
+            "ID": "green_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/green_wool"
+        },
+        {
+            "ID": "red_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_wool"
+        },
+        {
+            "ID": "black_wool",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/black_wool"
+        },
+        {
+            "ID": "smooth_stone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/smooth_stone"
+        },
+        {
+            "ID": "bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/bricks"
+        },
+        {
+            "ID": "packed_mud",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/packed_mud"
+        },
+        {
+            "ID": "chiseled_stone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/chiseled_stone_bricks"
+        },
+        {
+            "ID": "cracked_stone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cracked_stone_bricks"
+        },
+        {
+            "ID": "mossy_stone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/mossy_stone_bricks"
+        },
+        {
+            "ID": "stone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/stone_bricks"
+        },
+        {
+            "ID": "glowstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/glowstone"
+        },
+        {
+            "ID": "smooth_basalt",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/smooth_basalt"
+        },
+        {
+            "ID": "soul_soil",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/soul_soil"
+        },
+        {
+            "ID": "soul_sand",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/soul_sand"
+        },
+        {
+            "ID": "netherrack",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/netherrack"
+        },
+        {
+            "ID": "clay",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/clay"
+        },
+        {
+            "ID": "ice",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/ice"
+        },
+        {
+            "ID": "purpur_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/purpur_block"
+        },
+        {
+            "ID": "obsidian",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/obsidian"
+        },
+        {
+            "ID": "mossy_cobblestone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/mossy_cobblestone"
+        },
+        {
+            "ID": "mud_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/mud_bricks"
+        },
+        {
+            "ID": "deepslate_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_bricks"
+        },
+        {
+            "ID": "cracked_deepslate_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cracked_deepslate_bricks"
+        },
+        {
+            "ID": "deepslate_tiles",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/deepslate_tiles"
+        },
+        {
+            "ID": "cracked_deepslate_tiles",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cracked_deepslate_tiles"
+        },
+        {
+            "ID": "chiseled_deepslate",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/chiseled_deepslate"
+        },
+        {
+            "ID": "nether_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/nether_bricks"
+        },
+        {
+            "ID": "cracked_nether_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cracked_nether_bricks"
+        },
+        {
+            "ID": "end_stone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/end_stone"
+        },
+        {
+            "ID": "end_stone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/end_stone_bricks"
+        },
+        {
+            "ID": "emerald_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/emerald_block"
+        },
+        {
+            "ID": "chiseled_quartz_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/chiseled_quartz_block"
+        },
+        {
+            "ID": "quartz_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/quartz_bricks"
+        },
+        {
+            "ID": "white_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/white_terracotta"
+        },
+        {
+            "ID": "orange_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/orange_terracotta"
+        },
+        {
+            "ID": "packed_ice",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/packed_ice"
+        },
+        {
+            "ID": "light_gray_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_gray_terracotta"
+        },
+        {
+            "ID": "cyan_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cyan_terracotta"
+        },
+        {
+            "ID": "purple_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/purple_terracotta"
+        },
+        {
+            "ID": "blue_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/blue_terracotta"
+        },
+        {
+            "ID": "brown_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/brown_terracotta"
+        },
+        {
+            "ID": "green_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/green_terracotta"
+        },
+        {
+            "ID": "red_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_terracotta"
+        },
+        {
+            "ID": "black_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/black_terracotta"
+        },
+        {
+            "ID": "terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/terracotta"
+        },
+        {
+            "ID": "gray_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gray_terracotta"
+        },
+        {
+            "ID": "pink_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/pink_terracotta"
+        },
+        {
+            "ID": "lime_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/lime_terracotta"
+        },
+        {
+            "ID": "yellow_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/yellow_terracotta"
+        },
+        {
+            "ID": "light_blue_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_blue_terracotta"
+        },
+        {
+            "ID": "magenta_terracotta",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/magenta_terracotta"
+        },
+        {
+            "ID": "prismarine",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/prismarine"
+        },
+        {
+            "ID": "prismarine_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/prismarine_bricks"
+        },
+        {
+            "ID": "dark_prismarine",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dark_prismarine"
+        },
+        {
+            "ID": "sea_lantern",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/sea_lantern"
+        },
+        {
+            "ID": "magma_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/magma_block"
+        },
+        {
+            "ID": "nether_wart_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/nether_wart_block"
+        },
+        {
+            "ID": "warped_wart_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/warped_wart_block"
+        },
+        {
+            "ID": "red_nether_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_nether_bricks"
+        },
+        {
+            "ID": "white_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/white_concrete"
+        },
+        {
+            "ID": "magenta_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/magenta_concrete"
+        },
+        {
+            "ID": "light_blue_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_blue_concrete"
+        },
+        {
+            "ID": "yellow_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/yellow_concrete"
+        },
+        {
+            "ID": "lime_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/lime_concrete"
+        },
+        {
+            "ID": "pink_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/pink_concrete"
+        },
+        {
+            "ID": "gray_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gray_concrete"
+        },
+        {
+            "ID": "gray_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gray_concrete_powder"
+        },
+        {
+            "ID": "pink_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/pink_concrete_powder"
+        },
+        {
+            "ID": "lime_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/lime_concrete_powder"
+        },
+        {
+            "ID": "yellow_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/yellow_concrete_powder"
+        },
+        {
+            "ID": "light_blue_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_blue_concrete_powder"
+        },
+        {
+            "ID": "magenta_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/magenta_concrete_powder"
+        },
+        {
+            "ID": "orange_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/orange_concrete_powder"
+        },
+        {
+            "ID": "white_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/white_concrete_powder"
+        },
+        {
+            "ID": "black_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/black_concrete"
+        },
+        {
+            "ID": "red_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_concrete"
+        },
+        {
+            "ID": "green_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/green_concrete"
+        },
+        {
+            "ID": "brown_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/brown_concrete"
+        },
+        {
+            "ID": "blue_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/blue_concrete"
+        },
+        {
+            "ID": "purple_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/purple_concrete"
+        },
+        {
+            "ID": "cyan_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cyan_concrete"
+        },
+        {
+            "ID": "light_gray_concrete",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_gray_concrete"
+        },
+        {
+            "ID": "cyan_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cyan_concrete_powder"
+        },
+        {
+            "ID": "light_gray_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/light_gray_concrete_powder"
+        },
+        {
+            "ID": "purple_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/purple_concrete_powder"
+        },
+        {
+            "ID": "blue_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/blue_concrete_powder"
+        },
+        {
+            "ID": "brown_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/brown_concrete_powder"
+        },
+        {
+            "ID": "green_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/green_concrete_powder"
+        },
+        {
+            "ID": "red_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_concrete_powder"
+        },
+        {
+            "ID": "black_concrete_powder",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/black_concrete_powder"
+        },
+        {
+            "ID": "dead_tube_coral_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dead_tube_coral_block"
+        },
+        {
+            "ID": "dead_brain_coral_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dead_brain_coral_block"
+        },
+        {
+            "ID": "dead_bubble_coral_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dead_bubble_coral_block"
+        },
+        {
+            "ID": "dead_fire_coral_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dead_fire_coral_block"
+        },
+        {
+            "ID": "dead_horn_coral_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dead_horn_coral_block"
+        },
+        {
+            "ID": "blue_ice",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/blue_ice"
+        },
+        {
+            "ID": "crying_obsidian",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/crying_obsidian"
+        },
+        {
+            "ID": "blackstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/blackstone"
+        },
+        {
+            "ID": "gilded_blackstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/gilded_blackstone"
+        },
+        {
+            "ID": "polished_blackstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/polished_blackstone"
+        },
+        {
+            "ID": "chiseled_polished_blackstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/chiseled_polished_blackstone"
+        },
+        {
+            "ID": "polished_blackstone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/polished_blackstone_bricks"
+        },
+        {
+            "ID": "cracked_polished_blackstone_bricks",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cracked_polished_blackstone_bricks"
+        },
+        {
+            "ID": "redstone_lamp",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/redstone_lamp"
+        },
+        {
+            "ID": "note_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/note_block"
+        },
+        {
+            "ID": "oak_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/oak_leaves"
+        },
+        {
+            "ID": "spruce_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/spruce_leaves"
+        },
+        {
+            "ID": "birch_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/birch_leaves"
+        },
+        {
+            "ID": "jungle_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/jungle_leaves"
+        },
+        {
+            "ID": "acacia_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/acacia_leaves"
+        },
+        {
+            "ID": "dark_oak_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/dark_oak_leaves"
+        },
+        {
+            "ID": "mangrove_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/mangrove_leaves"
+        },
+        {
+            "ID": "azalea_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/azalea_leaves"
+        },
+        {
+            "ID": "flowering_azalea_leaves",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/flowering_azalea_leaves"
+        },
+        {
+            "ID": "moss_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/moss_block"
+        },
+        {
+            "ID": "waxed_copper_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/copper_block"
+        },
+        {
+            "ID": "waxed_exposed_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/exposed_copper"
+        },
+        {
+            "ID": "waxed_oxidized_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/oxidized_cut_copper"
+        },
+        {
+            "ID": "waxed_weathered_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/weathered_cut_copper"
+        },
+        {
+            "ID": "waxed_exposed_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/exposed_cut_copper"
+        },
+        {
+            "ID": "waxed_cut_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/cut_copper"
+        },
+        {
+            "ID": "waxed_oxidized_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/oxidized_copper"
+        },
+        {
+            "ID": "waxed_weathered_copper",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/weathered_copper"
+        },
+        {
+            "ID": "smooth_quartz",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/quartz_block_side"
+        },
+        {
+            "ID": "quartz_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/quartz_block_side"
+        },
+        {
+            "ID": "smooth_red_sandstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/red_sandstone_top"
+        },
+        {
+            "ID": "smooth_sandstone",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/sandstone_top"
+        },
+        {
+            "ID": "snow_block",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/snow"
+        },
+        {
+            "ID": "target",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/target_side"
+        },
+        {
+            "ID": "redstone_lamp",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/redstone_lamp"
+        },
+        {
+            "ID": "redstone_lamp_on",
+            "Type": 1,
+            "Path": "Normal_Texture/Materials/redstone_lamp_on"
+        },
+        {
+            "ID": "jungle_log",
+            "Type": 2,
+            "Path": "2T/jungle_log/Materials"
+        },
+        {
+            "ID": "acacia_log",
+            "Type": 2,
+            "Path": "2T/acacia_log/Materials"
+        },
+        {
+            "ID": "dark_oak_log",
+            "Type": 2,
+            "Path": "2T/dark_oak_log/Materials"
+        },
+        {
+            "ID": "mangrove_log",
+            "Type": 2,
+            "Path": "2T/mangrove_log/Materials"
+        },
+        {
+            "ID": "birch_log",
+            "Type": 2,
+            "Path": "2T/birch_log/Materials"
+        },
+        {
+            "ID": "spruce_log",
+            "Type": 2,
+            "Path": "2T/spruce_log/Materials"
+        },
+        {
+            "ID": "oak_log",
+            "Type": 2,
+            "Path": "2T/oak_log/Materials"
+        },
+        {
+            "ID": "crimson_stem",
+            "Type": 2,
+            "Path": "2T/crimson_stem/Materials"
+        },
+        {
+            "ID": "warped_stem",
+            "Type": 2,
+            "Path": "2T/warped_stem/Materials"
+        },
+        {
+            "ID": "polished_basalt",
+            "Type": 2,
+            "Path": "2T/polished_basalt/Materials"
+        },
+        {
+            "ID": "basalt",
+            "Type": 2,
+            "Path": "2T/basalt/Materials"
+        },
+        {
+            "ID": "quartz_pillar",
+            "Type": 2,
+            "Path": "2T/quartz_pillar/Materials"
+        },
+        {
+            "ID": "pearlescent_froglight",
+            "Type": 2,
+            "Path": "2T/pearlescent_froglight/Materials"
+        },
+        {
+            "ID": "verdant_froglight",
+            "Type": 2,
+            "Path": "2T/verdant_froglight/Materials"
+        },
+        {
+            "ID": "ochre_froglight",
+            "Type": 2,
+            "Path": "2T/ochre_froglight/Materials"
+        },
+        {
+            "ID": "bookshelf",
+            "Type": 2,
+            "Path": "2T/bookshelf/Materials"
+        },
+        {
+            "ID": "stripped_jungle_log",
+            "Type": 2,
+            "Path": "2T/stripped_jungle_log/Materials"
+        },
+        {
+            "ID": "stripped_acacia_log",
+            "Type": 2,
+            "Path": "2T/stripped_acacia_log/Materials"
+        },
+        {
+            "ID": "stripped_dark_oak_log",
+            "Type": 2,
+            "Path": "2T/stripped_dark_oak_log/Materials"
+        },
+        {
+            "ID": "stripped_mangrove_log",
+            "Type": 2,
+            "Path": "2T/stripped_mangrove_log/Materials"
+        },
+        {
+            "ID": "stripped_birch_log",
+            "Type": 2,
+            "Path": "2T/stripped_birch_log/Materials"
+        },
+        {
+            "ID": "stripped_spruce_log",
+            "Type": 2,
+            "Path": "2T/stripped_spruce_log/Materials"
+        },
+        {
+            "ID": "stripped_oak_log",
+            "Type": 2,
+            "Path": "2T/stripped_oak_log/Materials"
+        },
+        {
+            "ID": "stripped_crimson_stem",
+            "Type": 2,
+            "Path": "2T/stripped_crimson_stem/Materials"
+        },
+        {
+            "ID": "stripped_warped_stem",
+            "Type": 2,
+            "Path": "2T/stripped_warped_stem/Materials"
+        },
+        {
+            "ID": "cut_sandstone",
+            "Type": 2,
+            "Path": "2T/cut_sandstone/Materials"
+        },
+        {
+            "ID": "chiseled_sandstone",
+            "Type": 2,
+            "Path": "2T/chiseled_sandstone/Materials"
+        },
+        {
+            "ID": "cut_red_sandstone",
+            "Type": 2,
+            "Path": "2T/cut_red_sandstone/Materials"
+        },
+        {
+            "ID": "chiseled_red_sandstone",
+            "Type": 2,
+            "Path": "2T/chiseled_red_sandstone/Materials"
+        },
+        {
+            "ID": "chiseled_quartz_block",
+            "Type": 2,
+            "Path": "2T/chiseled_quartz_block/Materials"
+        },
+        {
+            "ID": "hay_block",
+            "Type": 2,
+            "Path": "2T/hay_block/Materials"
+        },
+        {
+            "ID": "melon",
+            "Type": 2,
+            "Path": "2T/melon/Materials"
+        },
+        {
+            "ID": "pumpkin",
+            "Type": 2,
+            "Path": "2T/pumpkin/Materials"
+        },
+        {
+            "ID": "purpur_pillar",
+            "Type": 2,
+            "Path": "2T/purpur_pillar/Materials"
+        },
+        {
+            "ID": "grass_block",
+            "Type": 3,
+            "Path": "3T/grass_block/Materials"
+        },
+        {
+            "ID": "snow",
+            "Type": 7,
+            "Path": "Prefab/snow"
+        }
+    ]
+}
