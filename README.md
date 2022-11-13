@@ -37,6 +37,11 @@ The main difficulty was time, many important features are lacking.
 - In Minecraft, the world has a right-handed orientation while Unity has a left-handed orientation. It confused me a lot.
 - I couldn't create a Minecraft file parser inside Unity, I need to do it my self and then import it in Unity. There are not any way to change of section displayed.
 - I couldn't create a scrolling menu nor a serach tool to select a particular Texture for the new block.
+- My cat ran away on Saturday November the 12th, and i spent many hours to find him (Currently missing)
+
+#### The project isn't currently working
+
+I realized while taking the video that my targets could have different rotation than (0,0,0). However my code doesn't support it yet. I will add this tomorrow.
 
 ### Installation
  1. Clone the project
